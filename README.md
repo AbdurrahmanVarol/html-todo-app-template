@@ -1,11 +1,11 @@
 # html-todo-app-template
 
-![1](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/a1a630b1-6a2e-4ab8-b6ad-cb2cd3b60ec4)
+![1](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/d494fdbb-b066-4a63-9494-f1a49ed309d5)
 
-![2](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/09ff4c9d-a2b9-4573-9a11-43432c518d52)
+![2](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/67d2f210-622c-4045-918f-0a7f2a0c3291)
 
-![3](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/89d642f9-66a3-4fa4-aa68-313916648441)
+![3](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/44f8763a-f819-4d60-81d9-aa452b40dab5)
 
-![4](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/0dc3b983-738d-404c-bd89-07799442b3cd)
+![4](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/17242cba-7133-4a51-894e-c2f03a6c100c)
 
-
+![5](https://github.com/AbdurrahmanVarol/html-todo-app-template/assets/96303254/9fcba4cd-b373-4e19-bc86-65089246d659)
