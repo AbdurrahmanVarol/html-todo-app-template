@@ -46,3 +46,11 @@ const clearAll = () => {
     document.getElementById('todoList').innerHTML = ''
     changeItemCounter()
 }
+
+const changeActiveButton = (event) =>{
+    let buttons = document.querySelectorAll('.btn-group .btn')
+    for(let button of buttons){
+        button.classList.remove('active')
+    }
+    event.target.classList.add('active')
+}

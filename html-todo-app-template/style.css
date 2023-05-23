@@ -23,14 +23,6 @@ body {
     color: #F45050;
 }
 
-.btn-group button {
-    background-color: #F9D949;
-}
-
-.btn-group button:hover {
-    background-color: #d8bc3f;
-}
-
 .close,
 .check-mark {
     cursor: pointer;

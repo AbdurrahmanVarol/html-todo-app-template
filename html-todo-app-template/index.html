@@ -68,11 +68,11 @@
         </ul>
         <div class="footer mb-3 d-flex justify-content-between align-items-center">
 
-            <div id="itemCounter">7 item left</div>
+            <div id="itemCounter">6 item left</div>
             <div class="btn-group">
-                <button class="btn"> All</button>
-                <button class="btn"> Active</button>
-                <button class="btn"> Completed</button>
+                <button class="btn btn-outline-dark active" onclick="changeActiveButton(event)"> All</button>
+                <button class="btn btn-outline-dark" onclick="changeActiveButton(event)"> Active</button>
+                <button class="btn btn-outline-dark" onclick="changeActiveButton(event)"> Completed</button>
             </div>
             <button class="nav-link text-danger" onclick="clearAll()">Clear All</button>
         </div>
