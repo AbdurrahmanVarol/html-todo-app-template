@@ -36,7 +36,8 @@ body {
 
 .checked {
     color: white;
-    background-color: #7DCE13;
+    background-color: #7DCE13;    
+    text-decoration:line-through;
 }
 
 .footer {
